@@ -1,7 +1,7 @@
 [all:vars]
 
-[mongo-test]
-13.69.191.159 ansible_user=lesha  ansible_python_interpreter="/usr/bin/env python3"
+[mongo-test] 
+localhost ansible_user=manuel  ansible_python_interpreter="/usr/bin/env python3"
 
 
 
