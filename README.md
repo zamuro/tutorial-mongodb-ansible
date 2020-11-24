@@ -10,4 +10,8 @@ Also you're warmely welcome to say hello to us
 ## Why forking an existing repo instead of coding one from scratch?
 Well, when making a code test for a job application, time is of the escense. So, the question is **why not?**
 
-Sure, you're evaluating code skills on the candidate. But, also, aren't you evaluating the candidate's capacity to solve a problem in a timely manner? Also, why explaining it when there's a blog post by the repo author? A really good one, by the way.
+Sure, you're evaluating code skills on the candidate. But, also, aren't you evaluating the candidate's capacity to solve a problem in a timely manner? 
+
+I decided to use this repo because it did not only filled the requirement, but it did exceed it, creating enhanced security rules and not only user and acceses. It also set some constraints on memory and disk usage, defines network traffic and even synchronizes it to NTP. 
+
+The only change I've made to the existing code was to change hosts file so that I could run it on localhost.
